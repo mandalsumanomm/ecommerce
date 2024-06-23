@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  background-color: aqua;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+.navbar-brand {
+  padding-left: 20px; 
+}
+
+/* Card Styles */
+.card {
+  margin-bottom: 20px;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Form Styles */
+form {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* Profile Page Styles */
+.profile-container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.profile-container h1 {
+  margin-bottom: 20px;
+}
+
+.profile-container p {
+  font-size: 1.2em;
+}
+
+/* Footer Styles */
+footer {
+  background: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+  border-top: 1px solid #e7e7e7;
+  margin-top: 20px;
+}
+
+footer p {
+  margin: 0;
+}
+
+/* Button Styles */
+.btn-primary, .btn-danger {
+  margin-right: 10px;
+}
